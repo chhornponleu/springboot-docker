@@ -1,4 +1,7 @@
-### target/
+target/classes/*
+target/maven-*
+target/surfire-*
+target/test-*
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
