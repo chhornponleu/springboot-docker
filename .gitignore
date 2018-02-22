@@ -1,5 +1,6 @@
-target/classes/*
-target/maven-*
+target/classes/
+target/generated-test-sources/
+targt/maven-status
 target/surfire-*
 target/test-*
 !.mvn/wrapper/maven-wrapper.jar
